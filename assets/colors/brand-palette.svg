@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80" width="420" height="80">
+  <rect x="0"   y="0" width="60" height="80" fill="#000000"/>
+  <rect x="60"  y="0" width="60" height="80" fill="#F5A623"/>
+  <rect x="120" y="0" width="60" height="80" fill="#FF1D6C"/>
+  <rect x="180" y="0" width="60" height="80" fill="#E91E63"/>
+  <rect x="240" y="0" width="60" height="80" fill="#9C27B0"/>
+  <rect x="300" y="0" width="60" height="80" fill="#5E35B1"/>
+  <rect x="360" y="0" width="60" height="80" fill="#2979FF"/>
+  <text x="30"  y="95" text-anchor="middle" font-size="9" fill="#666">#000</text>
+  <text x="90"  y="95" text-anchor="middle" font-size="9" fill="#666">#F5A623</text>
+  <text x="150" y="95" text-anchor="middle" font-size="9" fill="#666">#FF1D6C</text>
+  <text x="210" y="95" text-anchor="middle" font-size="9" fill="#666">#E91E63</text>
+  <text x="270" y="95" text-anchor="middle" font-size="9" fill="#666">#9C27B0</text>
+  <text x="330" y="95" text-anchor="middle" font-size="9" fill="#666">#5E35B1</text>
+  <text x="390" y="95" text-anchor="middle" font-size="9" fill="#666">#2979FF</text>
+</svg>
